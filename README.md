@@ -102,21 +102,6 @@
 
 ---
 
-```bash
-┌──(rix㉿void)-[~]
-└─$ github --stats rishirix
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishirix&show_icons=true&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishirix&layout=compact&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
-
-<img src="https://streak-stats.demolab.com/?user=rishirix&theme=terminal&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
-
-</div>
-
 ---
 
 ```bash
