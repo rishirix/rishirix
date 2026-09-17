@@ -62,9 +62,9 @@
 ┌──(rix㉿kali)-[~]
 └─$ ls -la ./projects
 ```
-
-> *Experimental builds, scripts, and things I broke (then fixed).*  
-> Check the pinned repos below ↓
+[LFS-12.3 systemd](https://github.com/rishirix/LFS-Project-12.3-SystemD)
+[Arch Linux Secure Install](https://github.com/rishirix/ArchLinux-Secure-Install)
+[BIOS Recovery Guide](https://github.com/rishirix/BIOS-Recovery)
 
 ---
 
